@@ -1,4 +1,4 @@
-2023# FEEP_SIMULATOR
+# FEEP_SIMULATOR
 
 Simulador de empuje y de generación de partículas de propulsión iónica.
 
